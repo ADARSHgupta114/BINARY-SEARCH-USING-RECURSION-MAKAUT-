@@ -1,3 +1,11 @@
+// Coding solution for MAR
+//NAME:-ADARSH GUPTA
+//UNIVERSITY ROLL NO.:-16901619069
+//DEPARTMENT:-ELECTRICAL
+//YEAR:-2nd
+
+//PROBLEM:-BINARY SEARCH USING RECURSION
+
 #include <bits/stdc++.h>
 using namespace std;
 int binarySearch(int arr[], int l, int r, int x)
